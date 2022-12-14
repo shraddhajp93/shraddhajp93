@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shraddha Joshi Pandya (@shraddhajp93)
+- 👀 I’m a Technical Recruiter @ Hilton Software
+- 🌱 I’m currently recruiting for Software Engineers and Data Engineers who are interested in navigational app for airplanes.
+- 💞️ I’m looking forward to connecting with individuals who are interested in new opportunities.
+- 📫 You can reach me on my LinkedIn profile: https://www.linkedin.com/in/shraddhajopandya or send me an email on recruiting@hiltonsoftware.com
